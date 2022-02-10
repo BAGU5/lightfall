@@ -1,3 +1,4 @@
 [submodule "Waterfall"]
 	path = Waterfall
 	url = https://github.com/WaterfallMC/Waterfall.git
+	branch = 9d1a910
