@@ -1,3 +1,3 @@
 ## lightfall
-
-A fork of Waterfall with modern forge support.
+This is a fork of lightfall support Mohist server.
+A fork of lightfall with modern forge support.
